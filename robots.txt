@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kjsandbrink.github.io/ksandbrink.github.io/sitemap.xml
+Sitemap: https://kjsandbrink.github.io/ksandbrink.github.io//sitemap.xml

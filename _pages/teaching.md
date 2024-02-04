@@ -7,62 +7,62 @@ nav: true
 nav_order: 5
 ---
 
-## Teaching Assistantships
+### teaching assistantships
 
-#### How to Build a Brain from Scratch
+##### How to Build a Brain from Scratch
 - Fall (Michaelmas) 2023 and 2022
 - **Institution:** University of Oxford
 
-#### Behavioral Neuroscience
+##### Behavioral Neuroscience
 - Fall (Michaelmas) 2023
 - **Institution:** University of Oxford
 
-#### Topics in Computational Biology
+##### Topics in Computational Biology
 - Hilary Term (Winter) 2023
 - **Institution:** University of Oxford
 
-#### Cognition
+##### Cognition
 - Michaelmas (Fall) 2022
 - **Institution:** University of Oxford
 
-#### Chinese Population
+##### Chinese Population
 - Spring 2022
 - **Institution:** Peking University (Yenching Academy)
 
-#### Proofs and Basic Structures
+##### Proofs and Basic Structures
 - Spring 2021
 - **Institution:** ETH Zurich
 
-#### Computer Science II
+##### Computer Science II
 - Spring 2021
 - **Institution:** ETH Zurich
 
-#### Computer Science I
+##### Computer Science I
 - Fall 2020, 2017
 - **Institution:** ETH Zurich
 
-#### Rationality
+##### Rationality
 - Spring 2020
 - **Institution:** Harvard University
 
-#### Statistics for the Natural Sciences
+##### Statistics for the Natural Sciences
 - Spring 2018
 - **Institution:** University of Zurich
 
-#### Statistics and Probability Theory
+##### Statistics and Probability Theory
 - Spring 2016
 - **Institution:** ETH Zurich
 
-## Workshops
+### workshops
 
-#### Decision Neuroscience Seminar
+##### Decision Neuroscience Seminar
 - April 2024, May 2022, October 2020, May 2019
 - **Institution:** Swiss Study Foundation (Werner Siemens Program)
 
-#### Das Gehirn und seine WIRKlichkeit: Sind wir rational?
+##### Das Gehirn und seine WIRKlichkeit: Sind wir rational?
 - August 2023
 - **Institution:** Cusanuswerk (Ferienakademie)
 
-#### Reinforcement Learning Day
+##### Reinforcement Learning Day
 - March 2023
 - **Institution:** Human Information Processing Laboratory (Lab Internal)

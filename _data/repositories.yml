@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kjsandbrink
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - amathislab/DeepDraw
+  - AdaptiveMotorControlLab/DLC2Kinematics
+  - kjsandbrink/hip-rlday

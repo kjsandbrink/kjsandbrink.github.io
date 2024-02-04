@@ -11,8 +11,9 @@ profile:
   more_info: >
     <p>Lady Margaret Hall</p>
     <p>Norham Gardens</p>
-    <p>Oxford OX2 6QA, UK</p>
-    <p> </p>
+    <p>Oxford OX2 6QA</p>
+    <p>United Kingdom</p>
+    <p>&nbsp;</p>
     <p>E: kai dot sandbrink at psy dot ox dot ac dot uk</p>
 
 news: true  # includes a list of news items

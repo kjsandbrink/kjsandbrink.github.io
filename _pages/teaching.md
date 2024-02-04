@@ -59,9 +59,9 @@ nav_order: 5
 - April 2024, May 2022, October 2020, May 2019
 - **Institution:** Swiss Study Foundation (Werner Siemens Program)
 
-##### Das Gehirn und seine WIRKlichkeit: Sind wir rational?
+##### Sind wir rational? Workshop der Ferienakademie: Das Gehirn und seine WIRKlichkeit
 - August 2023
-- **Institution:** Cusanuswerk (Ferienakademie)
+- **Institution:** Cusanuswerk
 
 ##### Reinforcement Learning Day
 - March 2023

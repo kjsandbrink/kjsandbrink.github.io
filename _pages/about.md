@@ -12,7 +12,7 @@ profile:
     <p>Lady Margaret Hall</p>
     <p>Norham Gardens</p>
     <p>Oxford OX2 6QA, UK</p>
-    <p style="margin-top: 16px;">E: kai dot sandbrink at psy dot ox dot ac dot uk</p>
+    <p style="margin-top: 12px;">E: kai dot sandbrink at psy dot ox dot ac dot uk</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

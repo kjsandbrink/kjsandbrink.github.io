@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-### teaching assistantships
+## teaching assistantships
 
 ##### How to Build a Brain from Scratch
 - Fall (Michaelmas) 2023 and 2022
@@ -53,7 +53,7 @@ nav_order: 5
 - Spring 2016
 - **Institution:** ETH Zurich
 
-### workshops
+## workshops
 
 ##### Decision Neuroscience Seminar
 - April 2024, May 2022, October 2020, May 2019

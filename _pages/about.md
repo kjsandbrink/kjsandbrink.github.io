@@ -9,11 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Experimental Psychology, University of Oxford</p>
-    <p>Anna Watts Building, Woodstock Road</p>
-    <p>Oxford OX2 6GG, United Kingdom</p>
+    <p>Lady Margaret Hall</p>
+    <p>Norham Gardens</p>
+    <p>Oxford OX2 6QA, UK</p>
     <p> </p>
-    <p>✉️: kai dot sandbrink at psy dot ox dot ac dot uk</p>
+    <p>E: kai dot sandbrink at psy dot ox dot ac dot uk</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

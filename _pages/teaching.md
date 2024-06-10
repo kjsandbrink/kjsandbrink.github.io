@@ -11,46 +11,58 @@ nav_order: 5
 
 ##### How to Build a Brain from Scratch
 - Fall (Michaelmas) 2023 and 2022
+- **Instructor:** Prof. Christopher Summerfield
 - **Institution:** University of Oxford
 
 ##### Behavioral Neuroscience
 - Fall (Michaelmas) 2023
+- **Instructors:** Prof. Robin Murphy, Prof. Mark Buckley, Prof. David Bannerman
 - **Institution:** University of Oxford
 
 ##### Topics in Computational Biology
 - Hilary Term (Winter) 2023
+- **Instructor:** Prof. Jotun Hein
 - **Institution:** University of Oxford
 
 ##### Cognition
 - Michaelmas (Fall) 2022
+- **Instructors**: Prof. Kia Nobre, Dr. Saga Boettcher, Prof. Kate Watkins, Prof. Nick Yeung
 - **Institution:** University of Oxford
 
 ##### Chinese Population
 - Spring 2022
+- **Instructor:** Prof. Yi Zhou
 - **Institution:** Peking University (Yenching Academy)
 
 ##### Proofs and Basic Structures
 - Spring 2021
+- **Instructor:** Prof. Will J. Merry
 - **Institution:** ETH Zurich
 
 ##### Computer Science II
 - Spring 2021
+- **Instructors:** Dr. Felix Friedrich, Dr. Ralf Sasse
 - **Institution:** ETH Zurich
 
 ##### Computer Science I
 - Fall 2020, 2017
+- **Instructors 2020:** Dr. Felix Friedrich, Dr. Ralf Sasse
+- **Instructors 2017:** Dr. Hermann Lehner, Dr. Felix Friedrich
 - **Institution:** ETH Zurich
 
 ##### Rationality
 - Spring 2020
+- **Instructor:** Prof. Steven Pinker
 - **Institution:** Harvard University
 
 ##### Statistics for the Natural Sciences
 - Spring 2018
+- **Instructor:** Dr. Christoph Luchsinger
 - **Institution:** University of Zurich
 
 ##### Statistics and Probability Theory
 - Spring 2016
+- **Instructor:** Dr. Lukas Meier
 - **Institution:** ETH Zurich
 
 ### Workshops
@@ -59,7 +71,7 @@ nav_order: 5
 - April 2024, May 2022, October 2020, May 2019
 - **Institution:** Swiss Study Foundation (Werner Siemens Program)
 
-##### Sind wir rational?
+##### Sind wir rational? Einblicke aus der Psychologie und den Neurowissenschaften
 - August 2023
 - Teil der Ferienakademie: Das Gehirn und seine WIRKlichkeit
 - **Institution:** Cusanuswerk

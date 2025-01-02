@@ -2,10 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: I really enjoy teaching, viewing it as both privilege and responsibility of being an academic. I have been fortunate to be a teaching assistant in various formats at universities on three continents. I have received great evaluations from students and always strive to improve. In addition to being a teaching assistant, I have also organized and held educational workshops at a variety of different venues.
+description: I really enjoy teaching, viewing it as both privilege and responsibility of being an academic. I have been fortunate to be a teaching assistant in various formats at universities on three continents. I have received great evaluations from students and always strive to improve. In addition to being a teaching assistant, I have also organized and held educational workshops at a variety of different venues. On this page, you can find an overview of my teaching experience as well as some materials I have generated.
 nav: true
 nav_order: 5
 ---
+
+## Experience
 
 ### Teaching Assistantships
 
@@ -85,3 +87,8 @@ nav_order: 5
 ##### Reinforcement Learning Day
 - March 2023
 - **Institution:** Human Information Processing Laboratory (Lab Internal)
+
+## Materials
+
+##### <a href = "https://drive.google.com/file/d/1JQHSJDtEleMU-8GFtXYMfNcFqnR_VswI/view?usp=sharing">Investigating the cognitive abilities of LLMs worksheet</a>
+This worksheet was generated as part of the LMH Summer Program in Computational Psychology and AI (August 2014).

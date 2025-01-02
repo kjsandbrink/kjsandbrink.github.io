@@ -68,7 +68,7 @@ nav_order: 5
 - **Institution:** ETH Zurich
 
 ### Summer Schools
-#### Computational Psychology \& AI
+##### Computational Psychology & AI
 - Designed and held four lectures on AI for an interdisciplinary class of undergraduates and formulated corresponding exercises
 - August 2024
 - **Institution:** Lady Margaret Hall, University of Oxford

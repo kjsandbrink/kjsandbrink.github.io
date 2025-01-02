@@ -91,4 +91,4 @@ nav_order: 5
 ## Materials
 
 ##### <a href = "https://drive.google.com/file/d/1JQHSJDtEleMU-8GFtXYMfNcFqnR_VswI/view?usp=sharing">Investigating the cognitive abilities of LLMs worksheet</a>
-This worksheet was generated as part of the LMH Summer Program in Computational Psychology and AI (August 2014).
+This worksheet was generated as part of the LMH Summer Program in Computational Psychology and AI (August 2024).

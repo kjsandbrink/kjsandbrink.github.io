@@ -62,7 +62,7 @@
   urldate = {2023-11-09},
   copyright = {All rights reserved},
   file = {C:\Users\kjsan\Zotero\storage\AJ3Y3BKB\view_paper.html},
-  selected={true},
+  selected={false},
 }
 
 @inproceedings{yiu.etal2023,
@@ -89,7 +89,8 @@
   abstract = {In mammals, neurons in the medial prefrontal cortex respond to action prediction errors (APEs). Here, using computational simulations with deep neural networks, we show the that this error monitoring process is crucial for inferring how controllable an environment is, and thus for estimating the value of control processes (meta-control). We trained both humans and deep reinforcement learning (RL) agents to perform a reward-guided learning task that required adaptation to changes in environmental controllability. Deep RL agents could only solve the task when designed to explicitly predict APEs, and when trained this way, they displayed signatures of meta-control that closely resembled those observed in humans. Moreover, when deep RL agents were trained to over- or under-estimate controllability, they developed behavioural pathologies matching those of humans who reported depressive, anxious or compulsive traits on transdiagnostic questionnaires. These findings open up new avenues for studying both healthy and pathological meta-control using deep neural networks.},
   archiveprefix = {OSF},
   copyright = {All rights reserved},
-  langid = {american}
+  langid = {american},
+  selected = {true},
 }
 
 @article{sandbrink.etal2024,
@@ -105,4 +106,17 @@
   copyright = {All rights reserved},
   langid = {english},
   file = {C:\Users\kjsan\Zotero\storage\K2CI5BER\Sandbrink et al. - 2024 - Can reinforcement learning model learning across d.pdf}
+}
+
+@inproceedings{sandbrink.etal2024b,
+  title = {Flexible Task Abstractions Emerge in Linear Networks with Fast and Bounded Units},
+  booktitle = {The {{Thirty-eighth Annual Conference}} on {{Neural Information Processing Systems}}},
+  author = {Sandbrink, Kai Jappe and Bauer, Jan Philipp and Proca, Alexandra Maria and Saxe, Andrew M. and Summerfield, Christopher and Hummos, Ali},
+  year = {2024},
+  month = nov,
+  urldate = {2025-02-27},
+  abstract = {Animals survive in dynamic environments changing at arbitrary timescales, but such data distribution shifts are a challenge to neural networks. To adapt to change, neural systems may change a large number of parameters, which is a slow process involving forgetting past information. In contrast, animals leverage distribution changes to segment their stream of experience into tasks and associate them with internal task abstracts. Animals can then respond flexibly by selecting the appropriate task abstraction. However, how such flexible task abstractions may arise in neural systems remains unknown. Here, we analyze a linear gated network where the weights and gates are jointly optimized via gradient descent, but with neuron-like constraints on the gates including a faster timescale, non-negativity, and bounded activity. We observe that the weights self-organize into modules specialized for tasks or sub-tasks encountered, while the gates layer forms unique representations that switch the appropriate weight modules (task abstractions). We analytically reduce the learning dynamics to an effective eigenspace, revealing a virtuous cycle: fast adapting gates drive weight specialization by protecting previous knowledge, while weight specialization in turn increases the update rate of the gating layer. Task switching in the gating layer accelerates as a function of curriculum block size and task training, mirroring key findings in cognitive neuroscience. We show that the discovered task abstractions support generalization through both task and subtask composition, and we extend our findings to a non-linear network switching between two tasks. Overall, our work offers a theory of cognitive flexibility in animals as arising from joint gradient descent on synaptic and neural gating in a neural network architecture.},
+  langid = {english},
+  file = {C:\Users\kjsan\Zotero\storage\85EIAASL\Sandbrink et al. - 2024 - Flexible task abstractions emerge in linear networks with fast and bounded units.pdf},
+  selected = {true},
 }

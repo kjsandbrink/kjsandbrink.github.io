@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I held talks on connectionist models of cognitive flexibility at Kanaka Rajan's lab at Harvard and Tom Griffith's and Johnathan Cohen's labs at Princeton during a trip to the US!
+I held talks on connectionist models of cognitive flexibility at Kanaka Rajan's lab at Harvard and Tom Griffith's and Johnathan Cohen's labs at Princeton.
